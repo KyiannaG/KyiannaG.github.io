@@ -8,8 +8,8 @@
 }
 @font-face
 {
-	font-family: 'Work';
-	src:url('"fonts/WorkSans-VariableFont_wght.ttf"') format('truetype');
+	font-family: 'Plex';
+	src:url('"fonts/IBMPlexSansCondensed-Medium.ttf"') format('truetype');
 }
 @font-face
 {
@@ -18,7 +18,7 @@
 }
 h1
 {
-	font-family:'Work';
+	font-family:'Plex';
 	font-weight: bold;
 }
 h2
