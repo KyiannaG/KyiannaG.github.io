@@ -6,9 +6,14 @@
 	list-style-position:inside; 
 	
 }
+@font-face
+{
+	font-family: 'Arimo';
+	src:url('bacs200/css/fonts/Arimo-VariableFont_wght.ttf') format('truetype');
+}
 h1
 {
-	
+	font-family:'Arimo';
 }
 h2
 {
