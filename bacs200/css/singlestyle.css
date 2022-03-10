@@ -8,8 +8,8 @@
 }
 @font-face
 {
-	font-family: 'Arimo';
-	src:url('fonts/Arimo-VariableFont_wght.ttf') format('truetype');
+	font-family: 'Work';
+	src:url('"fonts/WorkSans-VariableFont_wght.ttf"') format('truetype');
 }
 @font-face
 {
@@ -18,7 +18,7 @@
 }
 h1
 {
-	font-family:'Arimo';
+	font-family:'Work';
 	font-weight: bold;
 }
 h2
@@ -27,7 +27,7 @@ h2
 }
 h3
 {
-	
+	font-family:'IBM';
 }
 p
 {
@@ -36,4 +36,8 @@ p
 body
 {
 	border:8px solid #FDB0DE;
+}
+ul
+{
+	font-family:'IBM';
 }
