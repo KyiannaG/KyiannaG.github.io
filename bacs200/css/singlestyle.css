@@ -1,8 +1,9 @@
 *
 {
-	background-color:#FFDAF5;
 	text-align:center;
+	background-color:#FFDAF5;
 	margin:inherit;
+	list-style-position:inside; 
 	
 }
 h1
