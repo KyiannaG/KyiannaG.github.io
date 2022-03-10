@@ -21,3 +21,7 @@ body
 {
 	border:8px solid #FDB0DE;
 }
+ul
+{
+	float:right;
+}
