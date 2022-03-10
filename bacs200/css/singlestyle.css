@@ -19,6 +19,7 @@
 h1
 {
 	font-family:'Arimo';
+	font-weight: bold;
 }
 h2
 {
@@ -28,7 +29,11 @@ h3
 {
 	
 }
-body 
+p
+{
+	font-family:'IBM';
+}
+body
 {
 	border:8px solid #FDB0DE;
 }
