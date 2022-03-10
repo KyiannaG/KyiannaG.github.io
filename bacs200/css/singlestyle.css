@@ -45,3 +45,7 @@ iframe
 {
 	width:100%;
 }
+tr,td
+{
+	font-family:'IBM';
+}
