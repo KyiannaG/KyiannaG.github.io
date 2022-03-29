@@ -32,19 +32,12 @@ p
 {
 	font-family:'IBM';
 }
-body
-{
-	
-}
 ul
 {
 	font-family:'IBM';
 }
-iframe
-{
-	width="560" height="315"
-}
 tr,td
 {
 	font-family:'IBM';
+	border-color: #A04A4C
 }
