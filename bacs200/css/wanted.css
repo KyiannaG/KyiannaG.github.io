@@ -35,3 +35,10 @@
 			border: 10px solid #012E0D;
 			text-decoration-color: #010D04;
 		}
+		@media all and (max-width: 600px)
+		{
+			header h1
+			{
+				font-size: 3vw
+			}
+		}
