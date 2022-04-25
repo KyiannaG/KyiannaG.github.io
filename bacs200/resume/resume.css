@@ -1,6 +1,5 @@
 *
 {
-	text-align:center;
 	margin:inherit;
 	list-style-position:inside; 
 	
@@ -15,21 +14,33 @@
 	font-family: 'IBM';
 	src:url("fonts/IBMPlexSerif-Light.ttf") format('truetype');
 }
+header
+{
+	border-bottom:#1325B5
+}
 h1
 {
+	text-align:center;
 	font-family:'Signika';
 	font-weight: bold;
 }
 h2
 {
-	font-family:'IBM';	
+	font-family:'IBM';
+	text-decoration-line: underline
 }
 h3
 {
 	font-family:'IBM';
 }
+h4
+{
+	font-family:'IBM';
+	text-align:end
+}
 p
 {
 	font-family:'IBM';
+	text-align:center;
 }
 
